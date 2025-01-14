@@ -48,6 +48,8 @@ This repository will continue to grow as I tackle more programming challenges an
 
 Have suggestions or feedback? Feel free to reach out to me:  
 **Email**: [tkpadhi2003@gmail.com](mailto:tkpadhi2003@gmail.com)
-**Linkedin** : [My Linkedin] (https://www.linkedin.com/in/tapan-kumar-padhii-81b309252/)
+
+
+**Linkedin** : [My Linkedin](https://www.linkedin.com/in/tapan-kumar-padhii-81b309252/)
 
 Looking forward to connecting and learning together!
