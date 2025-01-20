@@ -6,16 +6,12 @@ This repository chronicles my **Java programming journey**, showcasing the probl
 
 ## My Path to Programming
 
-I began my programming career with the **C language**, which served as a gateway to understanding the basics of programming. However, **C** lacked support for **Object-Oriented Programming (OOP)**, a critical paradigm for modern software development. This realization led me to explore other languages, eventually diving into both **C++** and **Java** to gain a comprehensive understanding of programming concepts.
+I began my programming career with the **C language**, which served as a gateway to understanding the basics of programming. However, **C** lacked support for **Object-Oriented Programming (OOP)**, a critical paradigm for modern software development. This realization led me to explore other languages, eventually diving into **Java** to gain a comprehensive understanding of programming concepts.
 
 ### Key Milestones in My Programming Journey
 1. **C Language**  
    My introduction to programming: foundational concepts, procedural programming, and basic problem-solving.  
    🌟 [Explore My C Practice Repository](https://github.com/tapand3v3lop3r/Practice-C-Language-)
-
-2. **C++ Language**  
-   My transition to learning Object-Oriented Programming, with an emphasis on modern programming paradigms.  
-   🌟 *[Repository Coming Soon]*
 
 3. **Java Language**  
    Building on my OOP knowledge, I immersed myself in Java, learning to solve real-world problems and mastering a versatile, platform-independent language.  
